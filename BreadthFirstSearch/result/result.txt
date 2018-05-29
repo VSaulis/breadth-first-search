@@ -1,0 +1,706 @@
+New wave with step : 3
+-----------------------------------------
+New peak : [3, 4]
+1. Step : 3. Try to move to unavailable position.
+2. Step : 3. New peak found : [4, 4]
+3. Step : 3. Try to move to unavailable position.
+4. Step : 3. New peak found : [2, 4]
+
+-----------------------------------------
+
+
+New wave with step : 4
+-----------------------------------------
+New peak : [4, 4]
+5. Step : 4. Try to move to unavailable position.
+6. Step : 4. New peak found : [5, 4]
+7. Step : 4. Try to move to unavailable position.
+8. Step : 4. Try to move to unavailable position.
+
+New peak : [2, 4]
+9. Step : 4. Try to move to unavailable position.
+10. Step : 4. Try to move to unavailable position.
+11. Step : 4. New peak found : [2, 5]
+12. Step : 4. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 5
+-----------------------------------------
+New peak : [5, 4]
+13. Step : 5. Try to move to unavailable position.
+14. Step : 5. New peak found : [6, 4]
+15. Step : 5. Try to move to unavailable position.
+16. Step : 5. Try to move to unavailable position.
+
+New peak : [2, 5]
+17. Step : 5. Try to move to unavailable position.
+18. Step : 5. Try to move to unavailable position.
+19. Step : 5. New peak found : [2, 6]
+20. Step : 5. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 6
+-----------------------------------------
+New peak : [6, 4]
+21. Step : 6. New peak found : [6, 3]
+22. Step : 6. New peak found : [7, 4]
+23. Step : 6. Try to move to unavailable position.
+24. Step : 6. Try to move to unavailable position.
+
+New peak : [2, 6]
+25. Step : 6. Try to move to unavailable position.
+26. Step : 6. New peak found : [3, 6]
+27. Step : 6. New peak found : [2, 7]
+28. Step : 6. New peak found : [1, 6]
+
+-----------------------------------------
+
+
+New wave with step : 7
+-----------------------------------------
+New peak : [6, 3]
+29. Step : 7. New peak found : [6, 2]
+30. Step : 7. Try to move to unavailable position.
+31. Step : 7. Try to move to unavailable position.
+32. Step : 7. Try to move to unavailable position.
+
+New peak : [7, 4]
+33. Step : 7. Try to move to unavailable position.
+34. Step : 7. Try to move to unavailable position.
+35. Step : 7. New peak found : [7, 5]
+36. Step : 7. Try to move to unavailable position.
+
+New peak : [3, 6]
+37. Step : 7. Try to move to unavailable position.
+38. Step : 7. New peak found : [4, 6]
+39. Step : 7. Try to move to unavailable position.
+40. Step : 7. Try to move to unavailable position.
+
+New peak : [2, 7]
+41. Step : 7. Try to move to unavailable position.
+42. Step : 7. Try to move to unavailable position.
+43. Step : 7. New peak found : [2, 8]
+44. Step : 7. Try to move to unavailable position.
+
+New peak : [1, 6]
+45. Step : 7. Try to move to unavailable position.
+46. Step : 7. Try to move to unavailable position.
+47. Step : 7. Try to move to unavailable position.
+48. Step : 7. Try to move out of maze.
+
+-----------------------------------------
+
+
+New wave with step : 8
+-----------------------------------------
+New peak : [6, 2]
+49. Step : 8. Try to move to unavailable position.
+50. Step : 8. New peak found : [7, 2]
+51. Step : 8. Try to move to unavailable position.
+52. Step : 8. New peak found : [5, 2]
+
+New peak : [7, 5]
+53. Step : 8. Try to move to unavailable position.
+54. Step : 8. Try to move to unavailable position.
+55. Step : 8. New peak found : [7, 6]
+56. Step : 8. Try to move to unavailable position.
+
+New peak : [4, 6]
+57. Step : 8. Try to move to unavailable position.
+58. Step : 8. New peak found : [5, 6]
+59. Step : 8. Try to move to unavailable position.
+60. Step : 8. Try to move to unavailable position.
+
+New peak : [2, 8]
+61. Step : 8. Try to move to unavailable position.
+62. Step : 8. Try to move to unavailable position.
+63. Step : 8. New peak found : [2, 9]
+64. Step : 8. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 9
+-----------------------------------------
+New peak : [7, 2]
+65. Step : 9. Try to move to unavailable position.
+66. Step : 9. New peak found : [8, 2]
+67. Step : 9. Try to move to unavailable position.
+68. Step : 9. Try to move to unavailable position.
+
+New peak : [5, 2]
+69. Step : 9. Try to move to unavailable position.
+70. Step : 9. Try to move to unavailable position.
+71. Step : 9. Try to move to unavailable position.
+72. Step : 9. New peak found : [4, 2]
+
+New peak : [7, 6]
+73. Step : 9. Try to move to unavailable position.
+74. Step : 9. Try to move to unavailable position.
+75. Step : 9. Try to move to unavailable position.
+76. Step : 9. Try to move to unavailable position.
+
+New peak : [5, 6]
+77. Step : 9. Try to move to unavailable position.
+78. Step : 9. Try to move to unavailable position.
+79. Step : 9. New peak found : [5, 7]
+80. Step : 9. Try to move to unavailable position.
+
+New peak : [2, 9]
+81. Step : 9. Try to move to unavailable position.
+82. Step : 9. Try to move to unavailable position.
+83. Step : 9. Try to move to unavailable position.
+84. Step : 9. New peak found : [1, 9]
+
+-----------------------------------------
+
+
+New wave with step : 10
+-----------------------------------------
+New peak : [8, 2]
+85. Step : 10. Try to move to unavailable position.
+86. Step : 10. New peak found : [9, 2]
+87. Step : 10. New peak found : [8, 3]
+88. Step : 10. Try to move to unavailable position.
+
+New peak : [4, 2]
+89. Step : 10. Try to move to unavailable position.
+90. Step : 10. Try to move to unavailable position.
+91. Step : 10. Try to move to unavailable position.
+92. Step : 10. New peak found : [3, 2]
+
+New peak : [5, 7]
+93. Step : 10. Try to move to unavailable position.
+94. Step : 10. Try to move to unavailable position.
+95. Step : 10. New peak found : [5, 8]
+96. Step : 10. Try to move to unavailable position.
+
+New peak : [1, 9]
+97. Step : 10. Try to move to unavailable position.
+98. Step : 10. Try to move to unavailable position.
+99. Step : 10. Try to move to unavailable position.
+100. Step : 10. Try to move out of maze.
+
+-----------------------------------------
+
+
+New wave with step : 11
+-----------------------------------------
+New peak : [9, 2]
+101. Step : 11. Try to move to unavailable position.
+102. Step : 11. Try to move to unavailable position.
+103. Step : 11. New peak found : [9, 3]
+104. Step : 11. Try to move to unavailable position.
+
+New peak : [8, 3]
+105. Step : 11. Try to move to unavailable position.
+106. Step : 11. Try to move to unavailable position.
+107. Step : 11. Try to move to unavailable position.
+108. Step : 11. Try to move to unavailable position.
+
+New peak : [3, 2]
+109. Step : 11. Try to move to unavailable position.
+110. Step : 11. Try to move to unavailable position.
+111. Step : 11. Try to move to unavailable position.
+112. Step : 11. New peak found : [2, 2]
+
+New peak : [5, 8]
+113. Step : 11. Try to move to unavailable position.
+114. Step : 11. Try to move to unavailable position.
+115. Step : 11. Try to move to unavailable position.
+116. Step : 11. New peak found : [4, 8]
+
+-----------------------------------------
+
+
+New wave with step : 12
+-----------------------------------------
+New peak : [9, 3]
+117. Step : 12. Try to move to unavailable position.
+118. Step : 12. New peak found : [10, 3]
+119. Step : 12. New peak found : [9, 4]
+120. Step : 12. Try to move to unavailable position.
+
+New peak : [2, 2]
+121. Step : 12. Try to move to unavailable position.
+122. Step : 12. Try to move to unavailable position.
+123. Step : 12. Try to move to unavailable position.
+124. Step : 12. New peak found : [1, 2]
+
+New peak : [4, 8]
+125. Step : 12. Try to move to unavailable position.
+126. Step : 12. Try to move to unavailable position.
+127. Step : 12. Try to move to unavailable position.
+128. Step : 12. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 13
+-----------------------------------------
+New peak : [10, 3]
+129. Step : 13. Try to move to unavailable position.
+130. Step : 13. New peak found : [11, 3]
+131. Step : 13. Try to move to unavailable position.
+132. Step : 13. Try to move to unavailable position.
+
+New peak : [9, 4]
+133. Step : 13. Try to move to unavailable position.
+134. Step : 13. Try to move to unavailable position.
+135. Step : 13. New peak found : [9, 5]
+136. Step : 13. Try to move to unavailable position.
+
+New peak : [1, 2]
+137. Step : 13. Try to move to unavailable position.
+138. Step : 13. Try to move to unavailable position.
+139. Step : 13. Try to move to unavailable position.
+140. Step : 13. Try to move out of maze.
+
+-----------------------------------------
+
+
+New wave with step : 14
+-----------------------------------------
+New peak : [11, 3]
+141. Step : 14. Try to move to unavailable position.
+142. Step : 14. New peak found : [12, 3]
+143. Step : 14. New peak found : [11, 4]
+144. Step : 14. Try to move to unavailable position.
+
+New peak : [9, 5]
+145. Step : 14. Try to move to unavailable position.
+146. Step : 14. New peak found : [10, 5]
+147. Step : 14. Try to move to unavailable position.
+148. Step : 14. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 15
+-----------------------------------------
+New peak : [12, 3]
+149. Step : 15. Try to move to unavailable position.
+150. Step : 15. Try to move to unavailable position.
+151. Step : 15. New peak found : [12, 4]
+152. Step : 15. Try to move to unavailable position.
+
+New peak : [11, 4]
+153. Step : 15. Try to move to unavailable position.
+154. Step : 15. Try to move to unavailable position.
+155. Step : 15. New peak found : [11, 5]
+156. Step : 15. Try to move to unavailable position.
+
+New peak : [10, 5]
+157. Step : 15. Try to move to unavailable position.
+158. Step : 15. Try to move to unavailable position.
+159. Step : 15. Try to move to unavailable position.
+160. Step : 15. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 16
+-----------------------------------------
+New peak : [12, 4]
+161. Step : 16. Try to move to unavailable position.
+162. Step : 16. New peak found : [13, 4]
+163. Step : 16. Try to move to unavailable position.
+164. Step : 16. Try to move to unavailable position.
+
+New peak : [11, 5]
+165. Step : 16. Try to move to unavailable position.
+166. Step : 16. Try to move to unavailable position.
+167. Step : 16. Try to move to unavailable position.
+168. Step : 16. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 17
+-----------------------------------------
+New peak : [13, 4]
+169. Step : 17. Try to move to unavailable position.
+170. Step : 17. Try to move to unavailable position.
+171. Step : 17. New peak found : [13, 5]
+172. Step : 17. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 18
+-----------------------------------------
+New peak : [13, 5]
+173. Step : 18. Try to move to unavailable position.
+174. Step : 18. Try to move to unavailable position.
+175. Step : 18. New peak found : [13, 6]
+176. Step : 18. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 19
+-----------------------------------------
+New peak : [13, 6]
+177. Step : 19. Try to move to unavailable position.
+178. Step : 19. Try to move to unavailable position.
+179. Step : 19. New peak found : [13, 7]
+180. Step : 19. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 20
+-----------------------------------------
+New peak : [13, 7]
+181. Step : 20. Try to move to unavailable position.
+182. Step : 20. Try to move to unavailable position.
+183. Step : 20. New peak found : [13, 8]
+184. Step : 20. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 21
+-----------------------------------------
+New peak : [13, 8]
+185. Step : 21. Try to move to unavailable position.
+186. Step : 21. Try to move to unavailable position.
+187. Step : 21. New peak found : [13, 9]
+188. Step : 21. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 22
+-----------------------------------------
+New peak : [13, 9]
+189. Step : 22. Try to move to unavailable position.
+190. Step : 22. Try to move to unavailable position.
+191. Step : 22. Try to move to unavailable position.
+192. Step : 22. New peak found : [12, 9]
+
+-----------------------------------------
+
+
+New wave with step : 23
+-----------------------------------------
+New peak : [12, 9]
+193. Step : 23. Try to move to unavailable position.
+194. Step : 23. Try to move to unavailable position.
+195. Step : 23. Try to move to unavailable position.
+196. Step : 23. New peak found : [11, 9]
+
+-----------------------------------------
+
+
+New wave with step : 24
+-----------------------------------------
+New peak : [11, 9]
+197. Step : 24. New peak found : [11, 8]
+198. Step : 24. Try to move to unavailable position.
+199. Step : 24. Try to move to unavailable position.
+200. Step : 24. New peak found : [10, 9]
+
+-----------------------------------------
+
+
+New wave with step : 25
+-----------------------------------------
+New peak : [11, 8]
+201. Step : 25. New peak found : [11, 7]
+202. Step : 25. Try to move to unavailable position.
+203. Step : 25. Try to move to unavailable position.
+204. Step : 25. New peak found : [10, 8]
+
+New peak : [10, 9]
+205. Step : 25. Try to move to unavailable position.
+206. Step : 25. Try to move to unavailable position.
+207. Step : 25. Try to move to unavailable position.
+208. Step : 25. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 26
+-----------------------------------------
+New peak : [11, 7]
+209. Step : 26. Try to move to unavailable position.
+210. Step : 26. Try to move to unavailable position.
+211. Step : 26. Try to move to unavailable position.
+212. Step : 26. New peak found : [10, 7]
+
+New peak : [10, 8]
+213. Step : 26. Try to move to unavailable position.
+214. Step : 26. Try to move to unavailable position.
+215. Step : 26. Try to move to unavailable position.
+216. Step : 26. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 27
+-----------------------------------------
+New peak : [10, 7]
+217. Step : 27. Try to move to unavailable position.
+218. Step : 27. Try to move to unavailable position.
+219. Step : 27. Try to move to unavailable position.
+220. Step : 27. New peak found : [9, 7]
+
+-----------------------------------------
+
+
+New wave with step : 28
+-----------------------------------------
+New peak : [9, 7]
+221. Step : 28. Try to move to unavailable position.
+222. Step : 28. Try to move to unavailable position.
+223. Step : 28. Try to move to unavailable position.
+224. Step : 28. New peak found : [8, 7]
+
+-----------------------------------------
+
+
+New wave with step : 29
+-----------------------------------------
+New peak : [8, 7]
+225. Step : 29. Try to move to unavailable position.
+226. Step : 29. Try to move to unavailable position.
+227. Step : 29. New peak found : [8, 8]
+228. Step : 29. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 30
+-----------------------------------------
+New peak : [8, 8]
+229. Step : 30. Try to move to unavailable position.
+230. Step : 30. Try to move to unavailable position.
+231. Step : 30. New peak found : [8, 9]
+232. Step : 30. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 31
+-----------------------------------------
+New peak : [8, 9]
+233. Step : 31. Try to move to unavailable position.
+234. Step : 31. Try to move to unavailable position.
+235. Step : 31. New peak found : [8, 10]
+236. Step : 31. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 32
+-----------------------------------------
+New peak : [8, 10]
+237. Step : 32. Try to move to unavailable position.
+238. Step : 32. Try to move to unavailable position.
+239. Step : 32. New peak found : [8, 11]
+240. Step : 32. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 33
+-----------------------------------------
+New peak : [8, 11]
+241. Step : 33. Try to move to unavailable position.
+242. Step : 33. Try to move to unavailable position.
+243. Step : 33. New peak found : [8, 12]
+244. Step : 33. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 34
+-----------------------------------------
+New peak : [8, 12]
+245. Step : 34. Try to move to unavailable position.
+246. Step : 34. Try to move to unavailable position.
+247. Step : 34. New peak found : [8, 13]
+248. Step : 34. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 35
+-----------------------------------------
+New peak : [8, 13]
+249. Step : 35. Try to move to unavailable position.
+250. Step : 35. Try to move to unavailable position.
+251. Step : 35. New peak found : [8, 14]
+252. Step : 35. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 36
+-----------------------------------------
+New peak : [8, 14]
+253. Step : 36. Try to move to unavailable position.
+254. Step : 36. Try to move to unavailable position.
+255. Step : 36. Try to move to unavailable position.
+256. Step : 36. New peak found : [7, 14]
+
+-----------------------------------------
+
+
+New wave with step : 37
+-----------------------------------------
+New peak : [7, 14]
+257. Step : 37. Try to move to unavailable position.
+258. Step : 37. Try to move to unavailable position.
+259. Step : 37. Try to move to unavailable position.
+260. Step : 37. New peak found : [6, 14]
+
+-----------------------------------------
+
+
+New wave with step : 38
+-----------------------------------------
+New peak : [6, 14]
+261. Step : 38. New peak found : [6, 13]
+262. Step : 38. Try to move to unavailable position.
+263. Step : 38. New peak found : [6, 15]
+264. Step : 38. New peak found : [5, 14]
+
+-----------------------------------------
+
+
+New wave with step : 39
+-----------------------------------------
+New peak : [6, 13]
+265. Step : 39. New peak found : [6, 12]
+266. Step : 39. Try to move to unavailable position.
+267. Step : 39. Try to move to unavailable position.
+268. Step : 39. Try to move to unavailable position.
+
+New peak : [6, 15]
+269. Step : 39. Try to move to unavailable position.
+270. Step : 39. Try to move to unavailable position.
+271. Step : 39. New peak found : [6, 16]
+272. Step : 39. Try to move to unavailable position.
+
+New peak : [5, 14]
+273. Step : 39. Try to move to unavailable position.
+274. Step : 39. Try to move to unavailable position.
+275. Step : 39. Try to move to unavailable position.
+276. Step : 39. New peak found : [4, 14]
+
+-----------------------------------------
+
+
+New wave with step : 40
+-----------------------------------------
+New peak : [6, 12]
+277. Step : 40. Try to move to unavailable position.
+278. Step : 40. Try to move to unavailable position.
+279. Step : 40. Try to move to unavailable position.
+280. Step : 40. New peak found : [5, 12]
+
+New peak : [6, 16]
+281. Step : 40. Try to move to unavailable position.
+282. Step : 40. New peak found : [7, 16]
+283. Step : 40. New peak found : [6, 17]
+284. Step : 40. Try to move to unavailable position.
+
+New peak : [4, 14]
+285. Step : 40. Try to move to unavailable position.
+286. Step : 40. Try to move to unavailable position.
+287. Step : 40. Try to move to unavailable position.
+288. Step : 40. New peak found : [3, 14]
+
+-----------------------------------------
+
+
+New wave with step : 41
+-----------------------------------------
+New peak : [5, 12]
+289. Step : 41. Try to move to unavailable position.
+290. Step : 41. Try to move to unavailable position.
+291. Step : 41. Try to move to unavailable position.
+292. Step : 41. New peak found : [4, 12]
+
+New peak : [7, 16]
+293. Step : 41. Try to move to unavailable position.
+294. Step : 41. New peak found : [8, 16]
+295. Step : 41. Try to move to unavailable position.
+296. Step : 41. Try to move to unavailable position.
+
+New peak : [6, 17]
+297. Step : 41. Try to move to unavailable position.
+298. Step : 41. Try to move to unavailable position.
+299. Step : 41. New peak found : [6, 18]
+300. Step : 41. Try to move to unavailable position.
+
+New peak : [3, 14]
+301. Step : 41. New peak found : [3, 13]
+302. Step : 41. Try to move to unavailable position.
+303. Step : 41. Try to move to unavailable position.
+304. Step : 41. Try to move to unavailable position.
+
+-----------------------------------------
+
+
+New wave with step : 42
+-----------------------------------------
+New peak : [4, 12]
+305. Step : 42. Try to move to unavailable position.
+306. Step : 42. Try to move to unavailable position.
+307. Step : 42. Try to move to unavailable position.
+308. Step : 42. New peak found : [3, 12]
+
+New peak : [8, 16]
+309. Step : 42. Try to move to unavailable position.
+310. Step : 42. New peak found : [9, 16]
+311. Step : 42. Try to move to unavailable position.
+312. Step : 42. Try to move to unavailable position.
+
+New peak : [6, 18]
+313. Step : 42. Try to move to unavailable position.
+314. Step : 42. Try to move to unavailable position.
+315. Step : 42. Maze edge reached.
+
+ 01 01 01 01 01 01 01 01 01 00 01 01 01 01 01 01 00 01 01 01
+ 01 01 12 01 01 01 06 01 01 09 01 01 01 01 01 01 00 01 00 01
+ 01 01 11 01 03 04 05 06 07 08 01 01 01 01 01 00 00 00 00 01
+ 01 01 10 01 02 01 06 01 01 01 01 01 42 41 40 01 00 01 00 01
+ 01 01 09 01 03 01 07 01 11 01 01 01 41 01 39 01 00 01 00 01
+ 01 01 08 01 04 01 08 09 10 01 01 01 40 01 38 01 01 01 00 01
+ 01 01 07 06 05 01 01 01 01 01 01 01 39 38 37 38 39 40 41 42
+ 01 01 08 01 06 07 08 01 01 01 01 01 01 01 36 01 40 01 01 01
+ 01 01 09 10 01 01 01 28 29 30 31 32 33 34 35 01 41 01 01 01
+ 01 01 10 11 12 13 01 27 01 01 01 01 01 01 01 01 42 01 01 01
+ 01 01 01 12 01 14 01 26 25 24 01 01 01 01 00 00 00 01 01 01
+ 01 01 01 13 14 15 01 25 24 23 01 01 01 01 00 01 01 01 01 01
+ 01 01 01 14 15 01 01 01 01 22 01 01 01 01 00 01 01 01 01 01
+ 01 01 01 01 16 17 18 19 20 21 01 01 01 01 00 01 01 01 01 01
+ 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+
+
+ 01 01 01 01 01 01 01 01 01 00 01 01 01 01 01 01 00 01 01 01
+ 01 01 00 01 01 01 00 01 01 00 01 01 01 01 01 01 00 01 00 01
+ 01 01 00 01 00 00 00 00 00 00 01 01 01 01 01 00 00 00 00 01
+ 01 01 00 01 02 01 00 01 01 01 01 01 00 00 00 01 00 01 00 01
+ 01 01 00 01 03 01 00 01 00 01 01 01 00 01 00 01 00 01 00 01
+ 01 01 00 01 04 01 00 00 00 01 01 01 00 01 00 01 01 01 00 01
+ 01 01 07 06 05 01 01 01 01 01 01 01 00 00 37 38 39 40 41 42
+ 01 01 08 01 00 00 00 01 01 01 01 01 01 01 36 01 00 01 01 01
+ 01 01 09 00 01 01 01 28 29 30 31 32 33 34 35 01 00 01 01 01
+ 01 01 10 11 00 00 01 27 01 01 01 01 01 01 01 01 00 01 01 01
+ 01 01 01 12 01 00 01 26 00 00 01 01 01 01 00 00 00 01 01 01
+ 01 01 01 13 00 00 01 25 24 23 01 01 01 01 00 01 01 01 01 01
+ 01 01 01 14 15 01 01 01 01 22 01 01 01 01 00 01 01 01 01 01
+ 01 01 01 01 16 17 18 19 20 21 01 01 01 01 00 01 01 01 01 01
+ 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+
+Path in rules : Bottom -> Bottom -> Bottom -> Left -> Left -> Bottom -> Bottom -> Bottom -> Right -> Bottom -> Bottom -> Bottom -> Right -> Bottom -> Right -> Right -> Right -> Right -> Right -> Up -> Up -> Left -> Left -> Up -> Up -> Up -> Right -> Right -> Right -> Right -> Right -> Right -> Right -> Up -> Up -> Right -> Right -> Right -> Right -> Right
+Path in peaks : [3, 4] [4, 4] [5, 4] [6, 4] [6, 3] [6, 2] [7, 2] [8, 2] [9, 2] [9, 3] [10, 3] [11, 3] [12, 3] [12, 4] [13, 4] [13, 5] [13, 6] [13, 7] [13, 8] [13, 9] [12, 9] [11, 9] [11, 8] [11, 7] [10, 7] [9, 7] [8, 7] [8, 8] [8, 9] [8, 10] [8, 11] [8, 12] [8, 13] [8, 14] [7, 14] [6, 14] [6, 15] [6, 16] [6, 17] [6, 18] [6, 19] 
+Path found.
