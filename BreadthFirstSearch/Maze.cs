@@ -17,8 +17,9 @@ namespace BreadthFirstSearch {
 
         public void PrintMazeBig() {
             Log.AddToLog("");
+            int j = 0;
             foreach (var row in _maze) {
-                string toLog = "";
+                string toLog = " " + j + " ";
                 foreach (var col in row) {
                     toLog += " " + col.ToString("00");
                     Console.Write(" {00}", col);
@@ -30,16 +31,27 @@ namespace BreadthFirstSearch {
         }
 
         public void PrintMaze() {
+            int j = 0;
             Log.AddToLog("");
             foreach (var row in _maze) {
-                string toLog = "";
+                string toLog = " " + j + " ";
                 foreach (var col in row) {
                     toLog += " " + col;
                     Console.Write(" " + col);
                 }
                 Log.AddToLog(toLog);
                 Console.WriteLine();
+                j++;
             }
+
+            Log.AddToLog("");
+
+            string iAxis = "i|j";
+            for (int i = 0; i < _colsCount; i++) {
+                iAxis = iAxis + " " + i;
+            }
+            Log.AddToLog(iAxis);
+
             Log.AddToLog("");
         }
 
